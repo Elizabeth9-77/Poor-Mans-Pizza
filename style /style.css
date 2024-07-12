@@ -1,0 +1,31 @@
+body{
+    background-image:url("https://static.vecteezy.com/system/resources/previews/000/638/290/original/vector-cartoon-pizza-chef.jpg");
+    background-size:cover;
+    display:flex
+      flex:wrap
+  }
+  
+  header{
+    background-color:#B6EEA6;
+    height:100px;
+  }
+  
+  h1{
+    text-align:center;
+    text-decoration:underline;
+    Color:#A40808;
+    font-size:400%;
+  }
+  
+  nav{
+    margin-left:45%;
+    position:fixed;
+    top:0;
+    background-color:yellow;
+  }
+  
+  div{
+    margin-left:10%;
+  }
+  
+  
